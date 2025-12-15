@@ -9,7 +9,7 @@ The project follows a modular Python-based structure to ensure clarity, maintain
 **Khushbu Kapade**  
 Individual Assignment
 
-## Task 1 - The project is implemented entirely in Python and follows a modular design: 
+## Task 1 - The project is implemented entirely in Python and follows a modular design (Branch: main-task1):
 
 - **User Interface:** Streamlit-based web interface for interacting with public health data, generating records, viewing statistics, and visualising trends.
 - **Data Management Layer:** SQLite-based persistence layer for storing, updating, and deleting public health records.
@@ -17,7 +17,7 @@ Individual Assignment
 - **Analytics Module:** Summary statistics and trend analysis for key public health metrics.
 - **Testing:** Test-Driven Development (TDD) approach using PyTest to validate data generation, database operations, and analytical functionality.
 
-## Task 2 – Market Basket Analysis Using Statistical Methods
+## Task 2 – Market Basket Analysis Using Statistical Methods (Branch: main-task2)
 
 ### Description
 Task 2 focuses on analysing supermarket transaction data to uncover purchasing relationships between products.  
